@@ -83,7 +83,7 @@ li:nth-child(8) {
 li:nth-child(9) {
   animation-delay: 0.9s;
 }
-
+/* 
 a {
   margin: 50px;
   padding: 10px;
@@ -104,4 +104,4 @@ a {
   &:active {
     opacity: 0.6;
   }
-}
+} */
